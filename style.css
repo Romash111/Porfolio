@@ -1,0 +1,32 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    color:blueviolet;
+    text-align:center;
+}
+a {
+    color:rgb(255, 255, 255);
+    text-decoration:none;
+    margin: 10px;
+    padding: 10px;
+    background-color: blueviolet;
+}
+nav {
+    margin-top: 50px;
+}
+header {
+    background-color: blueviolet;
+    height: 20px;
+}
+.social {
+    background-color: white;
+}
+.link-header {
+   padding-bottom: 10px;
+   position: relative;
+   top:3px;
+}
+h1{
+    position: 520px;
+}
